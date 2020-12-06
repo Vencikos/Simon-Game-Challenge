@@ -1,1 +1,1 @@
-# Simon-Game-Challenge
+Simon Game Challenge .User selects a starting tile out of four tiles.Every level adds another tile to the sequence ana the user have to repeat the sequence.When the user chooses wrong tile a message and a sound indicates thet the game is over.
